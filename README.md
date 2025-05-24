@@ -1,5 +1,7 @@
 # 逆水寒手游PC自动弹琴
 
+![wechat_2025-05-24_084500_330](https://github.com/user-attachments/assets/2524cafc-a0e4-4be9-a63c-217a6702b59a)
+
 这是一个支持在Windows端自动读取`midi`文件并演奏的逆水寒手游PC弹琴脚本，基于(https://github.com/WitchElaina/Genshin_Zither_Player) 二次开发
 
 ## 使用方法
