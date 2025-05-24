@@ -24,7 +24,9 @@
 
 ### 编译
 
-pyinstaller编译GUI.spec即可
+1.pyinstaller编译GUI.spec
+
+2.解压midi_repo并放在程序根目录
 
 ### 改进
 
